@@ -1,1 +1,7 @@
-# cs-305-
+Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+  Artemis finanical was an organization that specialized in creating indivdualized finacial plans. There clients were private citizens who wished to create a financial plan. The isseu they wished to address was in regards to their software security. Seeing that they were dealing with very sensative information, it was paramount that they had top of the line security. 
+What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing? I did well in identifyinbg the venerabilites and listing possible counters to each risk. 
+What part of the vulnerability assessment was challenging or helpful to you? No part of the assignment was incrdibly difficult. 
+How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?  After refactoring the code, I ran another dependancy check to ensure the vunerabilites were addressed. 
+What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks? Knowing how tio run dependancy checks will be helpful in the future. 
+Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment? I would show them my ability to refactor code to address secuirty concerns brought up from a dependancy check. 
